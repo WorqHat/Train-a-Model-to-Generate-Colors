@@ -1,4 +1,4 @@
-# [How to train a Keras model to generate colors]()
+# How to train a Keras model to generate colors
 
 
 ## How to Run
