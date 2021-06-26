@@ -5,7 +5,7 @@
 Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) and [Jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed
 ### Clone or download this repo
 ```
-git clone https://github.com/Tony607/Keras-Colors
+git clone https://github.com/WorqHat/Train-a-Model-to-Generate-Colors
 ```
 ### Install required libraries
 `pip3 install -r requirements.txt`
